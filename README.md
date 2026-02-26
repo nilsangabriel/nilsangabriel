@@ -1,12 +1,12 @@
 # Hi there! I'm Nil 👋 
-> Your friendly neighborhood **Recreational Programmer**.
+> Your friendly neighborhood **Programmer**.
 
 ---
 
 ### 🚀 About Me
 - 🛠️ I’m currently working on **a Game**.
 - 📚️ I’m currently learning **[C#, Unity]** and trying to make my own **Game Engine**.
-- 💼 I’m currently working as a freelance web developer.
+- 💼 I’m currently working as a freelance frontend developer.
 - [Here](https://lowlevelape-portfolio.vercel.app/) it is.
 ---
 
