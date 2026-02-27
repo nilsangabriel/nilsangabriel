@@ -4,8 +4,8 @@
 ---
 
 ### 🚀 About Me
-- 🛠️ I’m currently working on **a Game**.
-- 📚️ I’m currently learning **[C#, Unity]** and trying to make my own **Game Engine**.
+- 🛠️ I’m currently working on a **Game**.
+- 📚️ I’m currently learning **[Nextjs, C#]** and re-learning **[C++]**.
 - 💼 I’m currently working as a freelance frontend developer.
 - [Here](https://lowlevelape-portfolio.vercel.app/) it is.
 ---
