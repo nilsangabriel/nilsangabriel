@@ -3,7 +3,7 @@
 
 **Just a guy building projects, experimenting, breaking things, and figuring out how they work.**
 
-* 🔭 Currently learning React Native, Swift, and Go.
+* 🔭 Currently learning React Native, Swift, and Objective-C.
 * 🛠️ I work primarily with C, C++, JavaScript, and Python.
 * 🖥️ I like tinkering with hardware and networking which led me to homelabbing.
 
