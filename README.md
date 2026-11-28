@@ -5,7 +5,6 @@
 
 * 🛠️ I work primarily with C, C++, JavaScript, and Python.
 * 🖥️ I like tinkering with hardware and networking which led me to homelabbing.
-* 🤖 Playing around with antigravity.
 
 <p align="center">
   <a href="https://kernil.org">Visit my portfolio 💼</a>
